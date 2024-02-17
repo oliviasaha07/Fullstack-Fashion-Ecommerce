@@ -212,7 +212,7 @@ order_date: new Date('2024-01-27')
 ]);
  
 
-7.Catlog
+6.Catlog
 
 db.catlog.insertMany([
 {
