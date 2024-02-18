@@ -182,8 +182,4 @@ Shoe(shoe_data ).save(function(err,data){
         res.redirect('/admin/shoe');
    });
 });
-
-
-
-/*-------- Module Export --------*/
 module.exports = router;
